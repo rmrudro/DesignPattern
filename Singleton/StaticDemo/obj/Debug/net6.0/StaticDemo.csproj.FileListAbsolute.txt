@@ -1,0 +1,15 @@
+A:\C# Code Practice\C# Interview\Design Pattern\Singleton\StaticDemo\bin\Debug\net6.0\StaticDemo.exe
+A:\C# Code Practice\C# Interview\Design Pattern\Singleton\StaticDemo\bin\Debug\net6.0\StaticDemo.deps.json
+A:\C# Code Practice\C# Interview\Design Pattern\Singleton\StaticDemo\bin\Debug\net6.0\StaticDemo.runtimeconfig.json
+A:\C# Code Practice\C# Interview\Design Pattern\Singleton\StaticDemo\bin\Debug\net6.0\StaticDemo.dll
+A:\C# Code Practice\C# Interview\Design Pattern\Singleton\StaticDemo\bin\Debug\net6.0\StaticDemo.pdb
+A:\C# Code Practice\C# Interview\Design Pattern\Singleton\StaticDemo\obj\Debug\net6.0\StaticDemo.csproj.AssemblyReference.cache
+A:\C# Code Practice\C# Interview\Design Pattern\Singleton\StaticDemo\obj\Debug\net6.0\StaticDemo.GeneratedMSBuildEditorConfig.editorconfig
+A:\C# Code Practice\C# Interview\Design Pattern\Singleton\StaticDemo\obj\Debug\net6.0\StaticDemo.AssemblyInfoInputs.cache
+A:\C# Code Practice\C# Interview\Design Pattern\Singleton\StaticDemo\obj\Debug\net6.0\StaticDemo.AssemblyInfo.cs
+A:\C# Code Practice\C# Interview\Design Pattern\Singleton\StaticDemo\obj\Debug\net6.0\StaticDemo.csproj.CoreCompileInputs.cache
+A:\C# Code Practice\C# Interview\Design Pattern\Singleton\StaticDemo\obj\Debug\net6.0\StaticDemo.dll
+A:\C# Code Practice\C# Interview\Design Pattern\Singleton\StaticDemo\obj\Debug\net6.0\refint\StaticDemo.dll
+A:\C# Code Practice\C# Interview\Design Pattern\Singleton\StaticDemo\obj\Debug\net6.0\StaticDemo.pdb
+A:\C# Code Practice\C# Interview\Design Pattern\Singleton\StaticDemo\obj\Debug\net6.0\StaticDemo.genruntimeconfig.cache
+A:\C# Code Practice\C# Interview\Design Pattern\Singleton\StaticDemo\obj\Debug\net6.0\ref\StaticDemo.dll
